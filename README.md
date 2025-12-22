@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Andrzej Sidor</h1>
-<h3 align="center">Self lerning DevOps homelab owner.</h3>
+<h3 align="center">Tech Guy, who likes lerninig new things</h3>
+
+## About Me
+- I supoort as IT Koordinator for Eng Dept with IT support.
+- Owner of private Kubernetes Homelab, where I lerning DevOps technics.
+- ...
+- Prepare to CKA Exam
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ewsdf&label=Profile%20views&color=0e75b6&style=flat" alt="ewsdf" /> </p>
 
@@ -17,10 +24,6 @@
 
 - 📫 How to reach me **linkedin LINK**
 
-## About Me
-- I build, ship, and tell the story in public.
-- Grew NextWorks social media to 250K+ followers in one year.
-- Help teach 145,000+ students cloud, AI, and tech skills
 
 
 ## Skill stack
