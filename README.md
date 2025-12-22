@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **K8s. homelab**
 
-- 📫 How to reach me **linkedin LINK**
+- 📫 How to reach me **See below**
 
 
 
@@ -42,7 +42,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
+## Connect with me
 <a href="https://www.linkedin.com/in/maximus-soares/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
@@ -50,5 +50,6 @@
   <img src="https://skillicons.dev/icons?i=twitter" alt="LinkedIn" />
 </a>
 
+## Statistics
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andsidor&show_icons=true&locale=en&layout=compact" alt="ewsdf" /></p>
 
