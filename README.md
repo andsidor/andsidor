@@ -25,6 +25,9 @@
 
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-412991?logo=openai)](https://openai.com)
 
+<img src="https://cdn.simpleicons.org/openai" width="40" />
+<img src="https://cdn.simpleicons.org/openai/white" width="40" />
+<img src="https://cdn.simpleicons.org/openai" width="32" />
 
 
 ## Skill stack
