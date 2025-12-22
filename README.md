@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ewsdf&label=Profile%20views&color=0e75b6&style=flat" alt="ewsdf" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ewsdf" alt="ewsdf" /></a> </p>
-
 - 🔭 I’m currently working on [Kubernetes Homelab](WWW.AAA.COM)
 
 - 🌱 I’m currently learning **Kubernetes, GitOps**
