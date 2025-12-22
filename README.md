@@ -64,11 +64,3 @@
      https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
 - [**Blog/Projects**](https://asidor23.blogspot.com/)
 - [**Contact**](mailto:andrzejsidor@gmail.com)
-
-- 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andsidor&show_icons=true&locale=en" alt="ewsdf" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ewsdf&" alt="ewsdf" /></p>
-
-
--->
