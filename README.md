@@ -20,6 +20,11 @@
 
 - 📫 How to reach me **See below**
 
+![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-412991?logo=openai)
+
+
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-412991?logo=openai)](https://openai.com)
+
 
 
 ## Skill stack
