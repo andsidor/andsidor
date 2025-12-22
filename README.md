@@ -34,6 +34,12 @@
 **Also comfortable with**: SQL (Postgres, SQlite), CI/CD pipelines, Networking and Security (VPC, IAM), Basic ML workflows.
 
 
+## Links
+<!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
+     https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
+- [**Blog/Projects**](https://asidor23.blogspot.com/)
+- [**Contact**](mailto:andrzejsidor@gmail.com)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
@@ -46,8 +52,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andsidor&show_icons=true&locale=en&layout=compact" alt="ewsdf" /></p>
 
-## Links
-<!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
-     https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
-- [**Blog/Projects**](https://asidor23.blogspot.com/)
-- [**Contact**](mailto:andrzejsidor@gmail.com)
