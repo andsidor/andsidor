@@ -40,9 +40,9 @@
 - [**Blog/Projects**](https://asidor23.blogspot.com/)
 - [**Contact**](mailto:andrzejsidor@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+     
 ## Connect with me
+     
 <a href="https://www.linkedin.com/in/maximus-soares/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
