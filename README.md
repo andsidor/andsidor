@@ -20,21 +20,11 @@
 
 - 📫 How to reach me **See below**
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-412991?logo=openai)
-
-
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-412991?logo=openai)](https://openai.com)
-
-<img src="https://cdn.simpleicons.org/openai" width="40" />
-<img src="https://cdn.simpleicons.org/openai/white" width="40" />
-<img src="https://cdn.simpleicons.org/openai" width="32" />
-
-
 ## Skill stack
 <!-- Skill icons provided by skill-icons. Full icon list and names:
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 [![My Skills](https://skillicons.dev/icons?i=kubernetes,aws,docker,vim,bash,git,github,terraform,python,typescript,nodejs,gpt&theme=light)](https://skillicons.dev)
-
+<img src="https://cdn.simpleicons.org/openai" width="40" />
 **Also comfortable with**: SQL (Postgres, SQlite), CI/CD pipelines, Networking and Security (VPC, IAM), Basic ML workflows.
 
 
