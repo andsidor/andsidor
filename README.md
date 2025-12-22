@@ -16,11 +16,7 @@
 
 - 👯 I’m looking to collaborate on **DEVOPS**
 
-- 👨‍💻 All of my projects are available at [ddd](ddd)
-
-- 📝 I regularly write articles on [MY BLOG.](MY BLOG.)
-
-- 💬 Ask me about **K8s. homelab**
+- 👨‍💻 All of my projects are available at [Blog](https://asidor23.blogspot.com/)
 
 - 📫 How to reach me **See below**
 
