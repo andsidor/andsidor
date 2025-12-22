@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrzej Sidor</h1>
-<h3 align="center">Tech guy, who likes lerninig new things</h3>
+<h3 align="center">I like lerninig new things</h3>
 
 ## About Me
 - I supoort as IT Koordinator for Eng Dept with IT support.
