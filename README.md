@@ -14,8 +14,6 @@
 
 - 🌱 I’m currently learning **Kubernetes, GitOps**
 
-- 👯 I’m looking to collaborate on **DEVOPS**
-
 - 👨‍💻 All of my projects are available at [Blog](https://asidor23.blogspot.com/)
 
 - 📫 How to reach me **See below**
