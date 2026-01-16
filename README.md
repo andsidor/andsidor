@@ -3,7 +3,7 @@
 
 ## About Me
 - I supoort as IT Koordinator for Eng Dept with IT support.
-- Owner of private Kubernetes Homelab, where I lerning DevOps technics.
+- Owner of private Kubernetes Homelab, where I lerning DevOps.
 - ...
 - Prepare to CKA Exam
 
