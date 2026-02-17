@@ -41,7 +41,3 @@
 <a href="https://www.linkedin.com/in/maximus-soares/" target="blank">
   <img src="https://skillicons.dev/icons?i=twitter" alt="LinkedIn" />
 </a>
-
-## Statistics
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andsidor&show_icons=true&locale=en&layout=compact" alt="ewsdf" /></p>
-
