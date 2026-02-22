@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ewsdf&label=Profile%20views&color=0e75b6&style=flat" alt="ewsdf" /> </p>
 
-- 🔭 I’m currently working on [Kubernetes Homelab](https://asidor23.blogspot.com/)
+- 🔭 I’m currently working on [Kubernetes Homelab](https://github.com/andsidor/HomeLab-Fluxcd/blob/main/README.md)
 
 - 🌱 I’m currently learning **Kubernetes, GitOps**
 
