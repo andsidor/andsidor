@@ -5,7 +5,7 @@
 - I supoort as IT Koordinator for Eng Dept with IT support.
 - Owner of private Kubernetes Homelab, where I lerning DevOps.
 - Prepare to CKA Exam
-- Play with Python data sciecnce
+- Play with Python data analysus
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ewsdf&label=Profile%20views&color=0e75b6&style=flat" alt="ewsdf" /> </p>
