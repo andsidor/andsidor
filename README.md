@@ -2,7 +2,7 @@
 <h3 align="center">I like lerninig new things</h3>
 
 ## About Me
-- I supoort as IT Koordinator for Eng Dept with IT support.
+- I supoort as Key User for Eng Dept with IT support.
 - Owner of private Kubernetes Homelab, where I lerning DevOps.
 - Prepare to CKA Exam
 - Play with Python data analysus
