@@ -3,14 +3,13 @@
 
 ## About Me
 - I supoort as Key User for Eng Dept with IT support.
-- Owner of private Kubernetes Homelab, where I lerning DevOps.
+- Owner of private Kubernetes Homelab.
 - Prepare to CKA Exam
-- Play with Python data analysus
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ewsdf&label=Profile%20views&color=0e75b6&style=flat" alt="ewsdf" /> </p>
 
-- 🔭 I’m currently working on [Kubernetes Homelab](https://github.com/andsidor/HomeLab-Fluxcd/blob/main/README.md)
+- 🔭 I’m currently working on [Kubernetes Homelab](https://github.com/andsidor/HomeLab)
 
 - 🌱 I’m currently learning **Kubernetes, GitOps**
 
