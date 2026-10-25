@@ -21,8 +21,7 @@
 <!-- Skill icons provided by skill-icons. Full icon list and names:
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 [![My Skills](https://skillicons.dev/icons?i=kubernetes,aws,docker,vim,bash,git,github,terraform,python,typescript,nodejs,gpt&theme=light)](https://skillicons.dev)
-<img src="https://cdn.simpleicons.org/openai" width="40" />
-**Also comfortable with**: SQL (Postgres, SQlite), CI/CD pipelines, Networking and Security (VPC, IAM), Basic ML workflows.
+**Also comfortable with**: SQL (Postgres, SQlite), CI/CD pipelines, Networking and Security (VPC, IAM), ChatGPT, Claude
 
 
 ## Links
