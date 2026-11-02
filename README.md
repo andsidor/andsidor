@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Kubernetes Homelab](https://github.com/andsidor/HomeLab)
 
-- 🌱 I’m currently learning **Kubernetes, GitOps**
+- 🌱 I’m currently learning **Kubernetes, DevOps**
 
 - 👨‍💻 All of my projects are available at [Blog](https://asidor23.blogspot.com/)
 
