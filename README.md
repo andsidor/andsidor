@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ewsdf&label=Profile%20views&color=0e75b6&style=flat" alt="ewsdf" /> </p>
 
-- 🔭 I’m currently working on [Kubernetes Homelab](https://github.com/andsidor/HomeLab) and [Openshift](https://github.com/andsidor/Openshift-CICD) 
+- 🔭 I’m currently working on [Kubernetes Homelab-GIT-OPS+CI/CD+AWS](https://github.com/andsidor/HomeLab) and [Openshift+GIT-OPS+CI/CD](https://github.com/andsidor/Openshift-CICD) 
 
 - 🌱 I’m currently learning **Kubernetes, DevOps**
 
